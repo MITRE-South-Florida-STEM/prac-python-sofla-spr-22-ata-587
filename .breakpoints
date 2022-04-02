@@ -1,0 +1,24 @@
+{
+  "files": {
+    "simple.py": [
+      {
+        "id": "a4f3d8d6-0d0a-4542-9ff3-05fd3070b17e",
+        "line": 4,
+        "version": 385,
+        "index": 71
+      },
+      {
+        "id": "68aa47de-8af5-4226-95de-9782615ba43e",
+        "line": 6,
+        "version": 385,
+        "index": 89
+      },
+      {
+        "id": "239e0be8-d6ff-447e-b1ba-3c33c742f509",
+        "line": 7,
+        "version": 385,
+        "index": 98
+      }
+    ]
+  }
+}
